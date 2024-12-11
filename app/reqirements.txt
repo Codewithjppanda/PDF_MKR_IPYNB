@@ -1,7 +1,0 @@
-flask
-nbconvert
-nbformat
-jupyter
-pyppeteer
-texlive-latex-base
-texlive-latex-recommended

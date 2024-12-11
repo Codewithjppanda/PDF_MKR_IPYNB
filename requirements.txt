@@ -1,0 +1,6 @@
+flask
+nbconvert
+nbformat
+jupyter
+pandoc
+weasyprint 
